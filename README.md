@@ -16,7 +16,7 @@ A collection of projects, skills, and certificates
 Assisted in the creation of a simple python application which identifies whether a comment is toxic. We performed exploratory analysis, text preprocessing techniques, and tuned classification models on comment data from the Toxic Comment Classification Challenge on Kaggle.
 
 Focused on using pipelines via scikit-learn to tune classification models using Naive Bayes, KNN, and Rocchio  
-
+  
 
 ## Core Skills
 
