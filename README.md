@@ -17,7 +17,7 @@ Assisted in the creation of a simple python application which identifies whether
 
 Focused on using pipelines via scikit-learn to tune classification models using Naive Bayes, KNN, and Rocchio  
 <br />
-<br />
+
 ## Core Skills
 - Languages (Python/R)
 - Microsoft Office Suite
