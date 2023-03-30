@@ -1,5 +1,5 @@
 # Data Science Portfolio
-<img align = "right" width = "100" height = "75" src = "https://github.com/jjbocek/Data-Science-Portfolio/blob/main/images/123.png">
+<img align = "right" width = "120" height = "100" src = "https://github.com/jjbocek/Data-Science-Portfolio/blob/main/images/123.png">
 
 **Jeff Bocek**     
 Email: jjbocek@gmail.com  
