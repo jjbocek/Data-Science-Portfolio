@@ -7,6 +7,8 @@ A collection of projects, skills, and certificates demonstrating my abilities
 
 ## Projects
 
+**[Toxic Comment App](https://github.com/jjbocek/ToxicApp)**
+
 ## Core Skills
 
 ## Certificates
