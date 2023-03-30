@@ -19,5 +19,9 @@ Focused on using pipelines via scikit-learn to tune classification models using 
   
 
 ## Core Skills
+- Languages (Python/R)
+- Microsoft Office Suite
+- Data Visualization
 
 ## Certificates
+- UIC Non-Profit Management
