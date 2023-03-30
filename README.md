@@ -1,4 +1,5 @@
 # Data Science Portfolio
+<img align = "right" width = "100" height = "150" src = "https://github.com/jjbocek/Data-Science-Portfolio/blob/main/images/123.png">
 **Jeff Bocek**     
 Email: jjbocek@gmail.com  
 LinkedIn: https://www.linkedin.com/in/jeffrey-bocek-479b78171/
