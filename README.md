@@ -7,7 +7,7 @@ A collection of projects, skills, and certificates demonstrating my abilities
 
 ## Projects
 
-**[Toxic Comment App](https://github.com/jjbocek/ToxicApp)**
+**[Toxic Comment App](https://github.com/jjbocek/ToxicApp)**  
 Assisted in the creation of a simple python application which identifies whether a comment is toxic. 
 
 ## Core Skills
