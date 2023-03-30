@@ -1,5 +1,5 @@
 # Data Science Portfolio
-**Jeff Bocek** -- Contact Info    
+**Jeff Bocek**     
 Email: jjbocek@gmail.com  
 LinkedIn: https://www.linkedin.com/in/jeffrey-bocek-479b78171/
 
