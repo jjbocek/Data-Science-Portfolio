@@ -19,7 +19,7 @@ Focused on using pipelines via scikit-learn to tune classification models using 
 <br />
 
 ## Core Skills
-- Languages (Python/R)
+- Languages (Python/R/SQL)
 - Microsoft Office Suite
 - Data Visualization
 - Statistical Analysis
